@@ -1,0 +1,6 @@
+# Site settings
+title: muslim_guide
+url: "https://sofien4387.github.io/muslim_guide/"
+baseurl: "/"
+
+theme: jekyll-theme-minimal
